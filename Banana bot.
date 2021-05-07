@@ -1,0 +1,8 @@
+echo "# WebHooks" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Edenbread7/WebHooks.git
+git push -u origin main
+git messgae -Banana bot "Hello, I am Banana bot. Welcome to the No More Banana's group!"
